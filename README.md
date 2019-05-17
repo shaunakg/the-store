@@ -16,3 +16,10 @@
 - all_webmail.php (Lets you view all the webmail sent) **If you want to send mail to all users, use the all_users address**
 - new_item.php (Lets you create a new item in the store)
 - topup.php (Lets you topup or debit balances)
+
+## License
+Do what you want, except:
+- You must credit me
+- You must not patent it in any way
+- No part of it may be trademarked
+- Additionally, the terms of the license (specified)[LICENSE] apply.
