@@ -1,0 +1,12 @@
+<h1>Login API</h1>
+<h3>Format</h3>
+The API uses POST (not any other HTTP method). Send a request like so:<br><pre>
+http -f POST localhost/login/api/api.php action=[ACTION] auth_token=[AUTH_TOKEN] other_options=[OPTIONS]</pre>
+Check below for actions that can be executed with the API.<br>
+<h3>Actions</h3>
+All of the below actions are designed to be included in the ACTION field when POSTing.<br>
+<ul>
+    <li><pre>create_usr</pre> Creates a new user.<br> Authentication : None.<br> Required fields: auth_token, name.</li>
+    <li><pre>delete_usr</pre> Delete a specific user.<br> Authentication : Must be admin.<br> Required fields: auth_token, username, password.</li>
+    <li><pre>delete_all_usrs</pre> Deletes all users.<br> Authentication : Must be admin.<br> Required fields: username, password.</li>
+</ul>
