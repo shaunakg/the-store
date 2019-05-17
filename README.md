@@ -13,6 +13,6 @@
 ## Auth pages
 - Under auth/
 - all_transactions.php (Lets you view all transaction by all users)
-- all_webmail.php (Lets you view all the webmail sent) **If you want to send mail to all users, use the all_users address*
+- all_webmail.php (Lets you view all the webmail sent) **If you want to send mail to all users, use the all_users address**
 - new_item.php (Lets you create a new item in the store)
 - topup.php (Lets you topup or debit balances)
