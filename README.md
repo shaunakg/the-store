@@ -1,5 +1,5 @@
 # The Store
-###This is a fully functional store with webmail and a catalog, plus a cart
+### This is a fully functional store with webmail and a catalog, plus a cart
 
 ## How to operate
 1. Import the store_database.sql backup into your SQL database (I use mySQL with phpMyAdmin, your experience may vary)
