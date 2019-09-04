@@ -22,4 +22,4 @@ Do what you want, except:
 - You must credit me
 - You must not patent it in any way
 - No part of it may be trademarked
-- Additionally, the terms of the license (specified)[LICENSE] apply.
+- Additionally, the terms of the license [specified](LICENSE) apply.
