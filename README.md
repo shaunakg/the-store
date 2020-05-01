@@ -8,7 +8,6 @@
 ## Important notes
 - Anybody can become an admin, that feature is not currently restricted. If you want, you could set some kind of preauth to be needed to become an admin
 - There IS an API, under store/login/api (this is because I actually started developing the login page before the store). It does not have any features apart from user creation and deletion
-- There are a HUGE number of security flaws. Example: forgot my password doesn't require auth (I will put this in issues, probably under #1)
 
 ## Auth pages
 - Under auth/
